@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: FactionFilter
+## Notes: Filters opposite faction spam from say/yell/emote
+## Author: Agset
+## Version: 1.0
+FactionFilter.lua
